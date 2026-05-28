@@ -40,7 +40,8 @@ Replace `MODEL_NAME` with whichever model you want (e.g. `llama3`, `mistral`, `g
 ollama pull MODEL_NAME
 ```
 
-Browse available models at [ollama.com/library](https://ollama.com/library).
+Browse available models at [ollama.com/library](https://ollama.com/library)
+
 Browse available [prompt-injections here](https://github.com/elder-plinius) 
 
 ---

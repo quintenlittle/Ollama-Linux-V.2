@@ -222,6 +222,10 @@ chmod +x ~/Desktop/model.desktop
 
 ---
 
+![SCREENSHOT](SCREENSHOT.png)
+
+---
+
 ## Related
 
 - [Ollama-Windows-V.1](https://github.com/quintenlittle/Ollama-Windows-V.1) — Same setup guide for Windows

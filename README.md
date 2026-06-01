@@ -387,6 +387,10 @@ The launcher falls back to plain text automatically if lolcat is missing — it'
 
 ---
 
+![SCREENSHOT](DOCUMENTSCAN.png)
+
+---
+
 ## Related
 
 - [Ollama-Linux-V.1](https://github.com/quintenlittle/Ollama-Linux-V.1) — Base setup: install Ollama, create a custom model, desktop shortcut

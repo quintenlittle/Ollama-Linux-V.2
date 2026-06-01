@@ -383,7 +383,7 @@ The launcher falls back to plain text automatically if lolcat is missing — it'
 
 ---
 
-![SCREENSHOT](SCREENSHOT.png)
+![SCREENSHOT](REBEL.png)
 
 ---
 
